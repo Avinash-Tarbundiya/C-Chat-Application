@@ -1,0 +1,25 @@
+avinash : helo
+charmik: hello avinash
+avinash : kem che dharmik badhu maja ma
+charmik: ha bas bhai badhu maja ma
+avinash: hello
+nitin: hello avinash
+avinash: hello
+mp: hello bhai
+avinash: hello
+nitin: hello avinash
+dharmik: hellonitin
+avinash: hello
+nitin: hello avi
+kalu: hello ntin
+hi: hello
+avinash: hello server
+avinash: hello avinash
+bhavesh: hello what are you doing?
+bhavesh: hi bhavesh
+bhavesh: \who
+bhavesh: how r u?
+bhavesh: who
+bhavesh: \who
+avinash: hell mayank
+avinash: hello dharmik
